@@ -8,7 +8,7 @@ public class main
 		
 		display();
 		
-	}//public static vou dmain END
+	}//public static void main END
 	
 	
 	public static void display()
@@ -16,6 +16,7 @@ public class main
 		
 		System.out.println("This is Setsuna F. Seie.");
 		System.out.println("Gundam: Exia, Signing on!");
+		System.out.println("Woop Woop! It Pushed!");
 		
 	}//display END
 
